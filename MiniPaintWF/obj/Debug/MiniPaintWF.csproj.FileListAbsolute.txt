@@ -1,0 +1,10 @@
+C:\Projects\MiniPaintWF\MiniPaintWF\bin\Debug\MiniPaintWF.exe.config
+C:\Projects\MiniPaintWF\MiniPaintWF\bin\Debug\MiniPaintWF.exe
+C:\Projects\MiniPaintWF\MiniPaintWF\bin\Debug\MiniPaintWF.pdb
+C:\Projects\MiniPaintWF\MiniPaintWF\obj\Debug\MiniPaintWF.csproj.AssemblyReference.cache
+C:\Projects\MiniPaintWF\MiniPaintWF\obj\Debug\MiniPaintWF.Form1.resources
+C:\Projects\MiniPaintWF\MiniPaintWF\obj\Debug\MiniPaintWF.Properties.Resources.resources
+C:\Projects\MiniPaintWF\MiniPaintWF\obj\Debug\MiniPaintWF.csproj.GenerateResource.cache
+C:\Projects\MiniPaintWF\MiniPaintWF\obj\Debug\MiniPaintWF.csproj.CoreCompileInputs.cache
+C:\Projects\MiniPaintWF\MiniPaintWF\obj\Debug\MiniPaintWF.exe
+C:\Projects\MiniPaintWF\MiniPaintWF\obj\Debug\MiniPaintWF.pdb
